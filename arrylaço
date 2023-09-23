@@ -1,0 +1,16 @@
+produto=["uva", "coca","maca", "laranja"]
+qtd=[120, 40, 60, 100]
+impum= 0.12
+impdois=0.6
+imptres=0.3
+
+
+
+uni=[qtd] * 0.12
+unid=uni*impdois
+unida=unid*imptres
+unidad=unida+6.4
+for b in range(len(produto)):
+    unidade=unidad[b]
+    print(produto, unidade)
+
