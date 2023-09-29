@@ -10,3 +10,8 @@ for i in range(len(produto)):
     # OLHA A VARIAVEL
 
     #arry numeros sem aspas
+
+    uni=[preco] * [impum]
+unid=uni*impdois
+unida=unid*imptres
+unidad=unida+6.4
